@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "01_introduction"
+        },
+        {
+            "path": "02_echo"
+        }
+    ],
+    "settings": {}
+}
