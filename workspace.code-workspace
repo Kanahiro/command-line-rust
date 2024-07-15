@@ -8,6 +8,9 @@
         },
         {
             "path": "02_echo"
+        },
+        {
+            "path": "03_cat"
         }
     ],
     "settings": {}
