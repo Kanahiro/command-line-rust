@@ -1,0 +1,1 @@
+/Users/kanahiro/Documents/playground/rust-book/03_cat/catr/target/debug/catr: /Users/kanahiro/Documents/playground/rust-book/03_cat/catr/src/lib.rs /Users/kanahiro/Documents/playground/rust-book/03_cat/catr/src/main.rs
