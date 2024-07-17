@@ -1,8 +1,7 @@
-use clap::{Arg, ArgAction, Command};
+use clap::{Arg, Command};
 use std::error::Error;
 use std::fs::File;
 use std::io::{self, BufRead, BufReader, Read};
-use std::process::exit;
 
 #[derive(Debug)]
 pub struct Config {
