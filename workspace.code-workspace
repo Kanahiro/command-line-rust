@@ -11,6 +11,30 @@
         },
         {
             "path": "03_cat"
+        },
+        {
+            "path": "04_head"
+        },
+        {
+            "path": "05_wc"
+        },
+        {
+            "path": "06_uniq"
+        },
+        {
+            "path": "07_find"
+        },
+        {
+            "path": "08_cut"
+        },
+        {
+            "path": "09_grep"
+        },
+        {
+            "path": "10_comm"
+        },
+        {
+            "path": "11_tail"
         }
     ],
     "settings": {}
